@@ -1,7 +1,7 @@
 # bigdata
 
 # libro
-clean code / codigo limpio
+clean code / código limpio
 
 # instalación de wsl
 https://docs.microsoft.com/es-es/windows/wsl/install
