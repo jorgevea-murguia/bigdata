@@ -17,3 +17,6 @@ https://www.youtube.com/watch?v=kEPF-MWGq1w
 
 # canal de youtube 
 https://www.youtube.com/results?search_query=codelytv
+
+# CTA
+https://inaem.aragon.es/sites/default/files/recursos/cta_carteltic_2022.pdf
