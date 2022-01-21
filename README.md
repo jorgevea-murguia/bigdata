@@ -15,5 +15,5 @@ https://www.youtube.com/watch?v=CV_Uf3Dq-EU
 # tutorial de git 
 https://www.youtube.com/watch?v=kEPF-MWGq1w
 
-#canal de youtube 
+# canal de youtube 
 https://www.youtube.com/results?search_query=codelytv
