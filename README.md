@@ -4,7 +4,7 @@
 # instalacion de wsl
 https://docs.microsoft.com/es-es/windows/wsl/install
 
-#Instalacion de docker 
+# Instalacion de docker 
 https://docs.docker.com/engine/install/ubuntu/
 
 # tutoriales de docker
