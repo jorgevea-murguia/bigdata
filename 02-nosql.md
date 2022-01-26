@@ -1,7 +1,7 @@
 # https://www.mongodb.com/es
 
 
-# clase
+# id de la clase compartida
 https://meet.google.com/obb-zmej-qyv
 
 #  mongo cloud
