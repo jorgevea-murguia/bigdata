@@ -1,4 +1,5 @@
-# https://www.mongodb.com/es
+#  base de datos de mongo
+https://www.mongodb.com/es
 
 
 # id de la clase compartida
