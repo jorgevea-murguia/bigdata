@@ -7,3 +7,6 @@ https://meet.google.com/obb-zmej-qyv
 
 #  mongo cloud
 https://cloud.mongodb.com/
+
+# documentacion de mongo 
+https://docs.mongodb.com/
