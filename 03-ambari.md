@@ -85,3 +85,6 @@ https://gist.githubusercontent.com/ferdinandosimonetti/4ba2e7f512af8d0d8a5d11dc4
 
 # usando el repositorio de 
 https://github.com/steven-matison/dfhz_hdp_mpack
+
+# habilitar la virtualizacion 
+https://docs.microsoft.com/es-es/virtualization/hyper-v-on-windows/quick-start/enable-hyper-v
