@@ -88,3 +88,7 @@ https://github.com/steven-matison/dfhz_hdp_mpack
 
 # habilitar la virtualizacion 
 https://docs.microsoft.com/es-es/virtualization/hyper-v-on-windows/quick-start/enable-hyper-v
+
+
+# generacion de ssh y copiado al servidor 
+https://www.ssh.com/academy/ssh/copy-id
